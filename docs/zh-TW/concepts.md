@@ -1,6 +1,14 @@
-<p align="center">**繁體中文** · [English](../en/concepts.md) · [日本語](../ja/concepts.md)</p>
+<div align="center">
 
-<p align="center">← [第一次使用](first-run.md) · [目錄](README.md) · [系統狀態](status.md) →</p>
+**繁體中文** · [English](../en/concepts.md) · [日本語](../ja/concepts.md)
+
+</div>
+
+<div align="center">
+
+← [第一次使用](first-run.md) · [目錄](README.md) · [系統狀態](status.md) →
+
+</div>
 
 ---
 # 幾個簡單觀念
@@ -48,8 +56,16 @@ Agent 是實際幫你寫程式、改檔案的助手。AI Forge 不會把助手�
 
 「最近專案」只是快捷清單：點一下就用目前選中的 Agent 啟動，最多記住 10 筆。清單**不會**顯示進行中，也不負責關掉那個視窗。
 
-<p align="center">**繁體中文** · [English](../en/concepts.md) · [日本語](../ja/concepts.md)</p>
+<div align="center">
 
-<p align="center">← [第一次使用](first-run.md) · [目錄](README.md) · [系統狀態](status.md) →</p>
+**繁體中文** · [English](../en/concepts.md) · [日本語](../ja/concepts.md)
+
+</div>
+
+<div align="center">
+
+← [第一次使用](first-run.md) · [目錄](README.md) · [系統狀態](status.md) →
+
+</div>
 
 ---

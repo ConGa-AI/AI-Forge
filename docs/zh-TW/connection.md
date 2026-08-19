@@ -1,6 +1,14 @@
-<p align="center">**繁體中文** · [English](../en/connection.md) · [日本語](../ja/connection.md)</p>
+<div align="center">
 
-<p align="center">← [系統狀態](status.md) · [目錄](README.md) · [Agents](agents.md) →</p>
+**繁體中文** · [English](../en/connection.md) · [日本語](../ja/connection.md)
+
+</div>
+
+<div align="center">
+
+← [系統狀態](status.md) · [目錄](README.md) · [Agents](agents.md) →
+
+</div>
 
 ---
 # 連線設定
@@ -36,8 +44,16 @@
 
 連線成功後才能驗證。貼上金鑰後按 **儲存並驗證**。畫面會分別顯示對話服務、向量化服務是否可用，以及向量維度（匯入時會用到，你不必自己填）。
 
-<p align="center">**繁體中文** · [English](../en/connection.md) · [日本語](../ja/connection.md)</p>
+<div align="center">
 
-<p align="center">← [系統狀態](status.md) · [目錄](README.md) · [Agents](agents.md) →</p>
+**繁體中文** · [English](../en/connection.md) · [日本語](../ja/connection.md)
+
+</div>
+
+<div align="center">
+
+← [系統狀態](status.md) · [目錄](README.md) · [Agents](agents.md) →
+
+</div>
 
 ---

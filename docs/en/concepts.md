@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/concepts.md) · **English** · [日本語](../ja/concepts.md)</p>
+<div align="center">
 
-<p align="center">← [First-time setup](first-run.md) · [Contents](README.md) · [Status](status.md) →</p>
+[繁體中文](../zh-TW/concepts.md) · **English** · [日本語](../ja/concepts.md)
+
+</div>
+
+<div align="center">
+
+← [First-time setup](first-run.md) · [Contents](README.md) · [Status](status.md) →
+
+</div>
 
 ---
 # A few simple ideas
@@ -30,8 +38,16 @@ Always use **Copy key**. Do not copy the shortened line on screen.
 
 The store lives on this computer. A dataset is a named box of imported files. An agent opens in a **new window** in the folder you picked. Recent projects are at most 10 shortcuts and do not show in-progress work.
 
-<p align="center">[繁體中文](../zh-TW/concepts.md) · **English** · [日本語](../ja/concepts.md)</p>
+<div align="center">
 
-<p align="center">← [First-time setup](first-run.md) · [Contents](README.md) · [Status](status.md) →</p>
+[繁體中文](../zh-TW/concepts.md) · **English** · [日本語](../ja/concepts.md)
+
+</div>
+
+<div align="center">
+
+← [First-time setup](first-run.md) · [Contents](README.md) · [Status](status.md) →
+
+</div>
 
 ---

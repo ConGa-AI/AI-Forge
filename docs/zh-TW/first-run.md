@@ -1,6 +1,14 @@
-<p align="center">**繁體中文** · [English](../en/first-run.md) · [日本語](../ja/first-run.md)</p>
+<div align="center">
 
-<p align="center">← [安裝與下載](install.md) · [目錄](README.md) · [幾個簡單觀念](concepts.md) →</p>
+**繁體中文** · [English](../en/first-run.md) · [日本語](../ja/first-run.md)
+
+</div>
+
+<div align="center">
+
+← [安裝與下載](install.md) · [目錄](README.md) · [幾個簡單觀念](concepts.md) →
+
+</div>
 
 ---
 # 第一次使用
@@ -45,8 +53,16 @@
 
 打開 **Agents**，選一個助手，加入專案資料夾，點一下即可啟動。細節見 [Agents](agents.md)。
 
-<p align="center">**繁體中文** · [English](../en/first-run.md) · [日本語](../ja/first-run.md)</p>
+<div align="center">
 
-<p align="center">← [安裝與下載](install.md) · [目錄](README.md) · [幾個簡單觀念](concepts.md) →</p>
+**繁體中文** · [English](../en/first-run.md) · [日本語](../ja/first-run.md)
+
+</div>
+
+<div align="center">
+
+← [安裝與下載](install.md) · [目錄](README.md) · [幾個簡單觀念](concepts.md) →
+
+</div>
 
 ---

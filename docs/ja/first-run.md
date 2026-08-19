@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/first-run.md) · [English](../en/first-run.md) · **日本語**</p>
+<div align="center">
 
-<p align="center">← [インストールとダウンロード](install.md) · [目次](README.md) · [かんたんな考え方](concepts.md) →</p>
+[繁體中文](../zh-TW/first-run.md) · [English](../en/first-run.md) · **日本語**
+
+</div>
+
+<div align="center">
+
+← [インストールとダウンロード](install.md) · [目次](README.md) · [かんたんな考え方](concepts.md) →
+
+</div>
 
 ---
 # 初めて使う
@@ -25,8 +33,16 @@
 
 そのあと **Agents** から起動します。詳細は [Agents](agents.md)。
 
-<p align="center">[繁體中文](../zh-TW/first-run.md) · [English](../en/first-run.md) · **日本語**</p>
+<div align="center">
 
-<p align="center">← [インストールとダウンロード](install.md) · [目次](README.md) · [かんたんな考え方](concepts.md) →</p>
+[繁體中文](../zh-TW/first-run.md) · [English](../en/first-run.md) · **日本語**
+
+</div>
+
+<div align="center">
+
+← [インストールとダウンロード](install.md) · [目次](README.md) · [かんたんな考え方](concepts.md) →
+
+</div>
 
 ---

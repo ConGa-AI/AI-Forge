@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/README.md) · **English** · [日本語](../ja/README.md)</p>
+<div align="center">
 
-<p align="center">← · [Contents](README.md) · [Install and download](install.md) →</p>
+[繁體中文](../zh-TW/README.md) · **English** · [日本語](../ja/README.md)
+
+</div>
+
+<div align="center">
+
+← · [Contents](README.md) · [Install and download](install.md) →
+
+</div>
 
 ---
 # AI Forge user guide
@@ -33,8 +41,16 @@ This guide is about using the app. Download it, finish first-time setup, launch 
 
 Download from the [latest release page](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest).
 
-<p align="center">[繁體中文](../zh-TW/README.md) · **English** · [日本語](../ja/README.md)</p>
+<div align="center">
 
-<p align="center">← · [Contents](README.md) · [Install and download](install.md) →</p>
+[繁體中文](../zh-TW/README.md) · **English** · [日本語](../ja/README.md)
+
+</div>
+
+<div align="center">
+
+← · [Contents](README.md) · [Install and download](install.md) →
+
+</div>
 
 ---

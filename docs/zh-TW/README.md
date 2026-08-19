@@ -1,6 +1,14 @@
-<p align="center">**繁體中文** · [English](../en/README.md) · [日本語](../ja/README.md)</p>
+<div align="center">
 
-<p align="center">← · [目錄](README.md) · [安裝與下載](install.md) →</p>
+**繁體中文** · [English](../en/README.md) · [日本語](../ja/README.md)
+
+</div>
+
+<div align="center">
+
+← · [目錄](README.md) · [安裝與下載](install.md) →
+
+</div>
 
 ---
 # AI Forge 使用說明
@@ -40,8 +48,16 @@
 
 下載請到 [最新發行頁](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest)。
 
-<p align="center">**繁體中文** · [English](../en/README.md) · [日本語](../ja/README.md)</p>
+<div align="center">
 
-<p align="center">← · [目錄](README.md) · [安裝與下載](install.md) →</p>
+**繁體中文** · [English](../en/README.md) · [日本語](../ja/README.md)
+
+</div>
+
+<div align="center">
+
+← · [目錄](README.md) · [安裝與下載](install.md) →
+
+</div>
 
 ---

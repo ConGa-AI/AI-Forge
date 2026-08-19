@@ -1,6 +1,14 @@
-<p align="center">**繁體中文** · [English](../en/data.md) · [日本語](../ja/data.md)</p>
+<div align="center">
 
-<p align="center">← [Agents](agents.md) · [目錄](README.md) · [資料管理](library.md) →</p>
+**繁體中文** · [English](../en/data.md) · [日本語](../ja/data.md)
+
+</div>
+
+<div align="center">
+
+← [Agents](agents.md) · [目錄](README.md) · [資料管理](library.md) →
+
+</div>
 
 ---
 # 資料設定
@@ -36,8 +44,16 @@
 | Office 文件 | Word／簡報等 |
 | 電路板圖檔 | 相關工程圖檔 |
 
-<p align="center">**繁體中文** · [English](../en/data.md) · [日本語](../ja/data.md)</p>
+<div align="center">
 
-<p align="center">← [Agents](agents.md) · [目錄](README.md) · [資料管理](library.md) →</p>
+**繁體中文** · [English](../en/data.md) · [日本語](../ja/data.md)
+
+</div>
+
+<div align="center">
+
+← [Agents](agents.md) · [目錄](README.md) · [資料管理](library.md) →
+
+</div>
 
 ---

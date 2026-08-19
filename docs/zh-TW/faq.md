@@ -1,6 +1,14 @@
-<p align="center">**繁體中文** · [English](../en/faq.md) · [日本語](../ja/faq.md)</p>
+<div align="center">
 
-<p align="center">← [資料管理](library.md) · [目錄](README.md) · →</p>
+**繁體中文** · [English](../en/faq.md) · [日本語](../ja/faq.md)
+
+</div>
+
+<div align="center">
+
+← [資料管理](library.md) · [目錄](README.md) · →
+
+</div>
 
 ---
 # 常見問題
@@ -43,8 +51,16 @@
 
 視窗上方可切換中／英文與深／淺色，選擇會被記住。這份說明本身可用頁面頂部切換繁中／英文／日文。
 
-<p align="center">**繁體中文** · [English](../en/faq.md) · [日本語](../ja/faq.md)</p>
+<div align="center">
 
-<p align="center">← [資料管理](library.md) · [目錄](README.md) · →</p>
+**繁體中文** · [English](../en/faq.md) · [日本語](../ja/faq.md)
+
+</div>
+
+<div align="center">
+
+← [資料管理](library.md) · [目錄](README.md) · →
+
+</div>
 
 ---

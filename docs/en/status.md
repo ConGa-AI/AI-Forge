@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/status.md) · **English** · [日本語](../ja/status.md)</p>
+<div align="center">
 
-<p align="center">← [A few simple ideas](concepts.md) · [Contents](README.md) · [Connection](connection.md) →</p>
+[繁體中文](../zh-TW/status.md) · **English** · [日本語](../ja/status.md)
+
+</div>
+
+<div align="center">
+
+← [A few simple ideas](concepts.md) · [Contents](README.md) · [Connection](connection.md) →
+
+</div>
 
 ---
 # Status
@@ -13,8 +21,16 @@ The green banner names the most useful next action. When all four readiness item
 
 The three checks below are a live health snapshot. Click **Recheck** after you connect or install.
 
-<p align="center">[繁體中文](../zh-TW/status.md) · **English** · [日本語](../ja/status.md)</p>
+<div align="center">
 
-<p align="center">← [A few simple ideas](concepts.md) · [Contents](README.md) · [Connection](connection.md) →</p>
+[繁體中文](../zh-TW/status.md) · **English** · [日本語](../ja/status.md)
+
+</div>
+
+<div align="center">
+
+← [A few simple ideas](concepts.md) · [Contents](README.md) · [Connection](connection.md) →
+
+</div>
 
 ---

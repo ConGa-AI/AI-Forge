@@ -1,6 +1,14 @@
-<p align="center">**繁體中文** · [English](../en/library.md) · [日本語](../ja/library.md)</p>
+<div align="center">
 
-<p align="center">← [資料設定](data.md) · [目錄](README.md) · [常見問題](faq.md) →</p>
+**繁體中文** · [English](../en/library.md) · [日本語](../ja/library.md)
+
+</div>
+
+<div align="center">
+
+← [資料設定](data.md) · [目錄](README.md) · [常見問題](faq.md) →
+
+</div>
 
 ---
 # 資料管理
@@ -30,8 +38,16 @@
 
 匯入完成後不必再做額外設定。到 [Agents](agents.md) 啟動助手，用平常說話的方式問即可。
 
-<p align="center">**繁體中文** · [English](../en/library.md) · [日本語](../ja/library.md)</p>
+<div align="center">
 
-<p align="center">← [資料設定](data.md) · [目錄](README.md) · [常見問題](faq.md) →</p>
+**繁體中文** · [English](../en/library.md) · [日本語](../ja/library.md)
+
+</div>
+
+<div align="center">
+
+← [資料設定](data.md) · [目錄](README.md) · [常見問題](faq.md) →
+
+</div>
 
 ---

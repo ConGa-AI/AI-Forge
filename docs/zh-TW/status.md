@@ -1,6 +1,14 @@
-<p align="center">**繁體中文** · [English](../en/status.md) · [日本語](../ja/status.md)</p>
+<div align="center">
 
-<p align="center">← [幾個簡單觀念](concepts.md) · [目錄](README.md) · [連線設定](connection.md) →</p>
+**繁體中文** · [English](../en/status.md) · [日本語](../ja/status.md)
+
+</div>
+
+<div align="center">
+
+← [幾個簡單觀念](concepts.md) · [目錄](README.md) · [連線設定](connection.md) →
+
+</div>
 
 ---
 # 系統狀態
@@ -28,8 +36,16 @@
 
 下方三項是即時健康檢查：遠端入口、本機通道、向量資料庫。若剛連上或剛安裝完，可按 **重新檢查**。
 
-<p align="center">**繁體中文** · [English](../en/status.md) · [日本語](../ja/status.md)</p>
+<div align="center">
 
-<p align="center">← [幾個簡單觀念](concepts.md) · [目錄](README.md) · [連線設定](connection.md) →</p>
+**繁體中文** · [English](../en/status.md) · [日本語](../ja/status.md)
+
+</div>
+
+<div align="center">
+
+← [幾個簡單觀念](concepts.md) · [目錄](README.md) · [連線設定](connection.md) →
+
+</div>
 
 ---

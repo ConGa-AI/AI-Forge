@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/faq.md) · **English** · [日本語](../ja/faq.md)</p>
+<div align="center">
 
-<p align="center">← [Library](library.md) · [Contents](README.md) · →</p>
+[繁體中文](../zh-TW/faq.md) · **English** · [日本語](../ja/faq.md)
+
+</div>
+
+<div align="center">
+
+← [Library](library.md) · [Contents](README.md) · →
+
+</div>
 
 ---
 # FAQ
@@ -17,8 +25,16 @@
 
 This guide can switch language from the bar at the top of every page.
 
-<p align="center">[繁體中文](../zh-TW/faq.md) · **English** · [日本語](../ja/faq.md)</p>
+<div align="center">
 
-<p align="center">← [Library](library.md) · [Contents](README.md) · →</p>
+[繁體中文](../zh-TW/faq.md) · **English** · [日本語](../ja/faq.md)
+
+</div>
+
+<div align="center">
+
+← [Library](library.md) · [Contents](README.md) · →
+
+</div>
 
 ---

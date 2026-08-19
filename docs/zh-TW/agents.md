@@ -1,6 +1,14 @@
-<p align="center">**繁體中文** · [English](../en/agents.md) · [日本語](../ja/agents.md)</p>
+<div align="center">
 
-<p align="center">← [連線設定](connection.md) · [目錄](README.md) · [資料設定](data.md) →</p>
+**繁體中文** · [English](../en/agents.md) · [日本語](../ja/agents.md)
+
+</div>
+
+<div align="center">
+
+← [連線設定](connection.md) · [目錄](README.md) · [資料設定](data.md) →
+
+</div>
 
 ---
 # Agents
@@ -38,8 +46,16 @@
 3. 右側 **啟動** 則啟動目前標成「使用中」的那一筆。
 4. 垃圾桶只是把捷徑從清單拿掉，不會刪你磁碟上的專案。
 
-<p align="center">**繁體中文** · [English](../en/agents.md) · [日本語](../ja/agents.md)</p>
+<div align="center">
 
-<p align="center">← [連線設定](connection.md) · [目錄](README.md) · [資料設定](data.md) →</p>
+**繁體中文** · [English](../en/agents.md) · [日本語](../ja/agents.md)
+
+</div>
+
+<div align="center">
+
+← [連線設定](connection.md) · [目錄](README.md) · [資料設定](data.md) →
+
+</div>
 
 ---

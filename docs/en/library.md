@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/library.md) · **English** · [日本語](../ja/library.md)</p>
+<div align="center">
 
-<p align="center">← [Data setup](data.md) · [Contents](README.md) · [FAQ](faq.md) →</p>
+[繁體中文](../zh-TW/library.md) · **English** · [日本語](../ja/library.md)
+
+</div>
+
+<div align="center">
+
+← [Data setup](data.md) · [Contents](README.md) · [FAQ](faq.md) →
+
+</div>
 
 ---
 # Library
@@ -13,8 +21,16 @@ Create a dataset, choose it as the target, pick files, and start import. Progres
 
 Then open [Agents](agents.md) and ask in ordinary language.
 
-<p align="center">[繁體中文](../zh-TW/library.md) · **English** · [日本語](../ja/library.md)</p>
+<div align="center">
 
-<p align="center">← [Data setup](data.md) · [Contents](README.md) · [FAQ](faq.md) →</p>
+[繁體中文](../zh-TW/library.md) · **English** · [日本語](../ja/library.md)
+
+</div>
+
+<div align="center">
+
+← [Data setup](data.md) · [Contents](README.md) · [FAQ](faq.md) →
+
+</div>
 
 ---

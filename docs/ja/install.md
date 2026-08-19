@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/install.md) · [English](../en/install.md) · **日本語**</p>
+<div align="center">
 
-<p align="center">← [目次](README.md) · [目次](README.md) · [初めて使う](first-run.md) →</p>
+[繁體中文](../zh-TW/install.md) · [English](../en/install.md) · **日本語**
+
+</div>
+
+<div align="center">
+
+← [目次](README.md) · [目次](README.md) · [初めて使う](first-run.md) →
+
+</div>
 
 ---
 # インストールとダウンロード
@@ -18,8 +26,16 @@ Windows は `.exe` をダブルクリック。Mac は初回にプライバシー
 
 続いて [初めて使う](first-run.md) へ。
 
-<p align="center">[繁體中文](../zh-TW/install.md) · [English](../en/install.md) · **日本語**</p>
+<div align="center">
 
-<p align="center">← [目次](README.md) · [目次](README.md) · [初めて使う](first-run.md) →</p>
+[繁體中文](../zh-TW/install.md) · [English](../en/install.md) · **日本語**
+
+</div>
+
+<div align="center">
+
+← [目次](README.md) · [目次](README.md) · [初めて使う](first-run.md) →
+
+</div>
 
 ---

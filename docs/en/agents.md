@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/agents.md) · **English** · [日本語](../ja/agents.md)</p>
+<div align="center">
 
-<p align="center">← [Connection](connection.md) · [Contents](README.md) · [Data setup](data.md) →</p>
+[繁體中文](../zh-TW/agents.md) · **English** · [日本語](../ja/agents.md)
+
+</div>
+
+<div align="center">
+
+← [Connection](connection.md) · [Contents](README.md) · [Data setup](data.md) →
+
+</div>
 
 ---
 # Agents
@@ -18,8 +26,16 @@ Install an assistant and launch it from recent project folders. The list keeps a
 
 Add a folder, click its name (or **Launch** on the right). Trash removes the shortcut only.
 
-<p align="center">[繁體中文](../zh-TW/agents.md) · **English** · [日本語](../ja/agents.md)</p>
+<div align="center">
 
-<p align="center">← [Connection](connection.md) · [Contents](README.md) · [Data setup](data.md) →</p>
+[繁體中文](../zh-TW/agents.md) · **English** · [日本語](../ja/agents.md)
+
+</div>
+
+<div align="center">
+
+← [Connection](connection.md) · [Contents](README.md) · [Data setup](data.md) →
+
+</div>
 
 ---

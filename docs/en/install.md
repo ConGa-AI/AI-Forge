@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/install.md) · **English** · [日本語](../ja/install.md)</p>
+<div align="center">
 
-<p align="center">← [Contents](README.md) · [Contents](README.md) · [First-time setup](first-run.md) →</p>
+[繁體中文](../zh-TW/install.md) · **English** · [日本語](../ja/install.md)
+
+</div>
+
+<div align="center">
+
+← [Contents](README.md) · [Contents](README.md) · [First-time setup](first-run.md) →
+
+</div>
 
 ---
 # Install and download
@@ -31,8 +39,16 @@ Get the file that matches your computer from the [latest release page](https://g
 
 The top of the window switches dark / light theme and Chinese / English. Continue with [first-time setup](first-run.md).
 
-<p align="center">[繁體中文](../zh-TW/install.md) · **English** · [日本語](../ja/install.md)</p>
+<div align="center">
 
-<p align="center">← [Contents](README.md) · [Contents](README.md) · [First-time setup](first-run.md) →</p>
+[繁體中文](../zh-TW/install.md) · **English** · [日本語](../ja/install.md)
+
+</div>
+
+<div align="center">
+
+← [Contents](README.md) · [Contents](README.md) · [First-time setup](first-run.md) →
+
+</div>
 
 ---

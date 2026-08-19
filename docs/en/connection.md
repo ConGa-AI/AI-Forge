@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/connection.md) · **English** · [日本語](../ja/connection.md)</p>
+<div align="center">
 
-<p align="center">← [Status](status.md) · [Contents](README.md) · [Agents](agents.md) →</p>
+[繁體中文](../zh-TW/connection.md) · **English** · [日本語](../ja/connection.md)
+
+</div>
+
+<div align="center">
+
+← [Status](status.md) · [Contents](README.md) · [Agents](agents.md) →
+
+</div>
 
 ---
 # Connection
@@ -17,8 +25,16 @@ Copy the full key, send it to your administrator, and click **Connect** after th
 
 When the status is **Connected**, paste the service key and click **Save and verify**.
 
-<p align="center">[繁體中文](../zh-TW/connection.md) · **English** · [日本語](../ja/connection.md)</p>
+<div align="center">
 
-<p align="center">← [Status](status.md) · [Contents](README.md) · [Agents](agents.md) →</p>
+[繁體中文](../zh-TW/connection.md) · **English** · [日本語](../ja/connection.md)
+
+</div>
+
+<div align="center">
+
+← [Status](status.md) · [Contents](README.md) · [Agents](agents.md) →
+
+</div>
 
 ---

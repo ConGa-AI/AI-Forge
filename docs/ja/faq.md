@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/faq.md) · [English](../en/faq.md) · **日本語**</p>
+<div align="center">
 
-<p align="center">← [データ管理](library.md) · [目次](README.md) · →</p>
+[繁體中文](../zh-TW/faq.md) · [English](../en/faq.md) · **日本語**
+
+</div>
+
+<div align="center">
+
+← [データ管理](library.md) · [目次](README.md) · →
+
+</div>
 
 ---
 # よくある質問
@@ -9,8 +17,16 @@
 
 この説明の言語は、各ページ上部のリンクで切り替えられます。
 
-<p align="center">[繁體中文](../zh-TW/faq.md) · [English](../en/faq.md) · **日本語**</p>
+<div align="center">
 
-<p align="center">← [データ管理](library.md) · [目次](README.md) · →</p>
+[繁體中文](../zh-TW/faq.md) · [English](../en/faq.md) · **日本語**
+
+</div>
+
+<div align="center">
+
+← [データ管理](library.md) · [目次](README.md) · →
+
+</div>
 
 ---

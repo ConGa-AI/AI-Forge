@@ -1,6 +1,14 @@
-<p align="center">**繁體中文** · [English](../en/install.md) · [日本語](../ja/install.md)</p>
+<div align="center">
 
-<p align="center">← [目錄](README.md) · [目錄](README.md) · [第一次使用](first-run.md) →</p>
+**繁體中文** · [English](../en/install.md) · [日本語](../ja/install.md)
+
+</div>
+
+<div align="center">
+
+← [目錄](README.md) · [目錄](README.md) · [第一次使用](first-run.md) →
+
+</div>
 
 ---
 # 安裝與下載
@@ -40,8 +48,16 @@
 
 接下來請看 [第一次使用](first-run.md)。
 
-<p align="center">**繁體中文** · [English](../en/install.md) · [日本語](../ja/install.md)</p>
+<div align="center">
 
-<p align="center">← [目錄](README.md) · [目錄](README.md) · [第一次使用](first-run.md) →</p>
+**繁體中文** · [English](../en/install.md) · [日本語](../ja/install.md)
+
+</div>
+
+<div align="center">
+
+← [目錄](README.md) · [目錄](README.md) · [第一次使用](first-run.md) →
+
+</div>
 
 ---

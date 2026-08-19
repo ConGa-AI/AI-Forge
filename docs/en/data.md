@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/data.md) · **English** · [日本語](../ja/data.md)</p>
+<div align="center">
 
-<p align="center">← [Agents](agents.md) · [Contents](README.md) · [Library](library.md) →</p>
+[繁體中文](../zh-TW/data.md) · **English** · [日本語](../ja/data.md)
+
+</div>
+
+<div align="center">
+
+← [Agents](agents.md) · [Contents](README.md) · [Library](library.md) →
+
+</div>
 
 ---
 # Data setup
@@ -13,8 +21,16 @@ Click **Install & start** if the store is not ready. Turn on only the format mod
 
 When the store is ready, go to [Library](library.md).
 
-<p align="center">[繁體中文](../zh-TW/data.md) · **English** · [日本語](../ja/data.md)</p>
+<div align="center">
 
-<p align="center">← [Agents](agents.md) · [Contents](README.md) · [Library](library.md) →</p>
+[繁體中文](../zh-TW/data.md) · **English** · [日本語](../ja/data.md)
+
+</div>
+
+<div align="center">
+
+← [Agents](agents.md) · [Contents](README.md) · [Library](library.md) →
+
+</div>
 
 ---

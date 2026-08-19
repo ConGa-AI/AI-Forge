@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/first-run.md) · **English** · [日本語](../ja/first-run.md)</p>
+<div align="center">
 
-<p align="center">← [Install and download](install.md) · [Contents](README.md) · [A few simple ideas](concepts.md) →</p>
+[繁體中文](../zh-TW/first-run.md) · **English** · [日本語](../ja/first-run.md)
+
+</div>
+
+<div align="center">
+
+← [Install and download](install.md) · [Contents](README.md) · [A few simple ideas](concepts.md) →
+
+</div>
 
 ---
 # First-time setup
@@ -31,8 +39,16 @@ A prompt may appear the first time. Choose **Install**, or later from **Data set
 
 Open **Agents**, pick an assistant, add a project folder, and click to launch. See [Agents](agents.md).
 
-<p align="center">[繁體中文](../zh-TW/first-run.md) · **English** · [日本語](../ja/first-run.md)</p>
+<div align="center">
 
-<p align="center">← [Install and download](install.md) · [Contents](README.md) · [A few simple ideas](concepts.md) →</p>
+[繁體中文](../zh-TW/first-run.md) · **English** · [日本語](../ja/first-run.md)
+
+</div>
+
+<div align="center">
+
+← [Install and download](install.md) · [Contents](README.md) · [A few simple ideas](concepts.md) →
+
+</div>
 
 ---

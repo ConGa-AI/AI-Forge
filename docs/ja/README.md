@@ -1,6 +1,14 @@
-<p align="center">[繁體中文](../zh-TW/README.md) · [English](../en/README.md) · **日本語**</p>
+<div align="center">
 
-<p align="center">← · [目次](README.md) · [インストールとダウンロード](install.md) →</p>
+[繁體中文](../zh-TW/README.md) · [English](../en/README.md) · **日本語**
+
+</div>
+
+<div align="center">
+
+← · [目次](README.md) · [インストールとダウンロード](install.md) →
+
+</div>
 
 ---
 # AI Forge ご利用ガイド
@@ -25,8 +33,16 @@
 
 ダウンロードは [最新の公開ページ](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest) です。
 
-<p align="center">[繁體中文](../zh-TW/README.md) · [English](../en/README.md) · **日本語**</p>
+<div align="center">
 
-<p align="center">← · [目次](README.md) · [インストールとダウンロード](install.md) →</p>
+[繁體中文](../zh-TW/README.md) · [English](../en/README.md) · **日本語**
+
+</div>
+
+<div align="center">
+
+← · [目次](README.md) · [インストールとダウンロード](install.md) →
+
+</div>
 
 ---
