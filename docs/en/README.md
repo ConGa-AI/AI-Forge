@@ -17,6 +17,8 @@
 
 This guide is about using the app. Download it, finish first-time setup, launch an assistant in a project folder, and optionally build a private searchable library from your files.
 
+With screenshots: [Docs site · AI Forge](https://congaai.github.io/docs/AI-Forge/Overview)
+
 ## Chapters
 
 1. [Install and download](install.md)

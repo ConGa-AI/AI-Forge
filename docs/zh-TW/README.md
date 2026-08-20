@@ -17,6 +17,8 @@
 
 這份說明只講怎麼用。選你的電腦、完成第一次設定，就能在專案資料夾裡啟動助手，也可以把文件放進本機資料庫供之後搜尋。
 
+畫面截圖：[網站文件中心 · AI Forge](https://congaai.github.io/docs/AI-Forge/Overview)
+
 ## 章節
 
 1. [安裝與下載](install.md)
