@@ -14,7 +14,7 @@
 
 ![系統狀態](docs/assets/status.png)
 
-AI Forge 是桌上電腦用的工作台：先讓這台電腦連上專屬通道，再啟動你習慣的 AI 助手，並可把本機文件整理成可搜尋的資料集。
+AI Forge 是桌上電腦用的工作台：先讓這台電腦連上專屬通道，再啟動你習慣的 AI 助手，並可把本機文件整理成可搜尋的資料集。左側六個畫面包含 Agents 與 MCP（本機文件庫、可選的瀏覽器操作）。
 
 - **繁體中文：** [使用說明](docs/zh-TW/README.md)
 - **English:** [User guide](docs/en/README.md)

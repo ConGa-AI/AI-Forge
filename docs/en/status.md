@@ -17,9 +17,11 @@
 
 This screen answers one question: **can you start working now?**
 
-The green banner names the most useful next action. When all four readiness items are on (channel, conversation, document understanding, store), this computer is fully ready.
+When all four readiness items are on, the banner title is **Everything is ready — get to work**, and the line under it still offers **Pick an agent and launch it in a project folder**. Click the banner to open Agents.
 
-The three checks below are a live health snapshot. Click **Recheck** after you connect or install.
+The four items are **Channel**, **Answering**, **Vectorizing**, and **Database**. MCP is a separate sidebar screen; it is not one of these four.
+
+The three cards below are live checks: **Remote access**, **Local channel**, **Vector database**. Click **Recheck** after you connect or install.
 
 <div align="center">
 

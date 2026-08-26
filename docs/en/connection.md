@@ -15,7 +15,7 @@
 
 ![Connection](../assets/connection.png)
 
-Three steps: **identity → connect → key**.
+Three steps: **Identity → Connect → Key**.
 
 Save the username your administrator assigned. Then open **Authorize**:
 
@@ -23,7 +23,9 @@ Save the username your administrator assigned. Then open **Authorize**:
 
 Copy the full key, send it to your administrator, and click **Connect** after they approve this computer.
 
-When the status is **Connected**, paste the service key and click **Save and verify**.
+When the status is **Connected**, paste the service key and click **Save & verify**. The page shows **Answering**, **Vectorizing**, and **Vector width**. If a key is already stored, use **Verify again**.
+
+Use **Disconnect** if you need to leave for a while. **Unauthorized** means the admin has not allowed this computer. **Remote unreachable** means check the network, then **Retry**. **Server verification failed** means contact an admin.
 
 <div align="center">
 

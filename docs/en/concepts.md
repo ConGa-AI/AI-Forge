@@ -17,26 +17,38 @@ Two minutes here makes the rest of the screens easier. Jump to [Status](status.m
 
 ## The channel
 
-A private path from this computer to the service. Conversation and document understanding both use it.
+A private path from this computer to the service. Answering and vectorizing both use it.
 
 ## Two different keys
 
 | | Authorization key | Service key |
 |---|---|---|
-| Purpose | Prove **this computer** may use the channel | Prove **you** may use conversation and document understanding |
+| Purpose | Prove **this computer** may use the channel | Prove **you** may use answering and vectorizing |
 | Where it comes from | Shown in the app; copy the full line | Issued by your administrator |
-| Who sees it | Your administrator | Paste it only on the Connection screen |
+| Who sees it | Your administrator | Paste it only on Connection |
 
 Always use **Copy key**. Do not copy the shortened line on screen.
 
-## Conversation and document understanding
+## Answering and vectorizing
 
-- **Conversation:** questions, answers, and writing code.
-- **Document understanding:** turning files into searchable meaning.
+Status shows these as **Answering** and **Vectorizing**. Connection shows **Answering** and **Vectorizing** under the service key, plus **Vector width**.
 
-## Local store, datasets, agents
+- **Answering:** questions, answers, and writing code.
+- **Vectorizing:** turning files into searchable meaning, not just keyword match.
 
-The store lives on this computer. A dataset is a named box of imported files. An agent opens in a **new window** in the folder you picked. Recent projects are at most 10 shortcuts and do not show in-progress work.
+## Local vector database
+
+It lives on this computer. The top badge says **Vectors**; Status readiness says **Database**; Data setup’s card title is **Vector database**.
+
+Skip install if you only need to launch assistants. **Remove** on Data setup deletes the install **and every dataset** on this computer.
+
+## Datasets, agents, MCP
+
+A dataset is a named box of imported files. An agent opens in a **new window** in the folder you picked. The six labels are OpenCode, Claude Code, Codex, Grok Build, Hermes Agent, and Pi. Recent projects are at most 10 shortcuts.
+
+**Remove** on an agent card deletes that assistant’s downloaded program and settings this app wrote. It does not delete your project, the app config, or other assistants.
+
+**MCP** writes tools into assistant configs: **Local library**, optional **Browser control** (Browser Use MCP), and channel services allowed by your key. **Apply to agents** takes effect on the **next** launch.
 
 <div align="center">
 

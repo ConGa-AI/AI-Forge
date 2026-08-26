@@ -22,6 +22,8 @@ Get the file that matches your computer from the [latest release page](https://g
 | Typical Linux PC | `ai-forge-linux-amd64` |
 | ARM Linux | `ai-forge-linux-arm64` |
 
+Each release also has a `.sha256` checksum file. For daily use, the main program is enough.
+
 ## Windows
 
 1. Download the `.exe` file and double-click it.
@@ -37,7 +39,17 @@ Get the file that matches your computer from the [latest release page](https://g
 1. Download the file.
 2. In the file properties, allow it to run as a program.
 
-The top of the window switches dark / light theme and Chinese / English. Continue with [first-time setup](first-run.md).
+## After it opens
+
+The top of the window switches dark / light theme and Chinese / English. Dark theme is lacquer black with gilt borders and captions; light theme stays the original pale grey.
+
+`Ctrl+K` (Mac: `⌘K`) opens search for pages and actions (connect, recheck, theme, language). Keys `1`–`6` switch the six sidebar screens: Status, Connection, Agents, MCP, Data setup, Data library.
+
+![Search](../assets/search.png)
+
+The search field may show `⌘K` even on Windows and Linux; use `Ctrl+K` there.
+
+Continue with [first-time setup](first-run.md).
 
 <div align="center">
 

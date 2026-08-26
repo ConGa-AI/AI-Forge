@@ -15,7 +15,7 @@
 
 ![Status](../assets/status.png)
 
-This guide is about using the app. Download it, finish first-time setup, launch an assistant in a project folder, and optionally build a private searchable library from your files.
+This guide is about using the app. Download it, finish first-time setup, launch an assistant in a project folder, optionally build a private searchable library, and write local tools into assistant settings.
 
 With screenshots: [Docs site · AI Forge](https://congaai.github.io/docs/AI-Forge/Overview)
 
@@ -27,9 +27,10 @@ With screenshots: [Docs site · AI Forge](https://congaai.github.io/docs/AI-Forg
 4. [Status](status.md)
 5. [Connection](connection.md)
 6. [Agents](agents.md)
-7. [Data setup](data.md)
-8. [Library](library.md)
-9. [FAQ](faq.md)
+7. [MCP](mcp.md)
+8. [Data setup](data.md)
+9. [Data library](library.md)
+10. [FAQ](faq.md)
 
 ## What you can do
 
@@ -37,9 +38,21 @@ With screenshots: [Docs site · AI Forge](https://congaai.github.io/docs/AI-Forg
 |---|---|
 | See whether you can start working | Status |
 | Authorize this computer, connect, paste your service key | Connection |
-| Install and launch OpenCode, Codex, Grok Build, or Claude Code | Agents |
-| Install the local store and choose file formats | Data setup |
-| Create datasets and import files | Library |
+| Install and launch OpenCode, Claude Code, Codex, Grok Build, Hermes Agent, or Pi | Agents |
+| Write the local library, browser control, and channel tools into assistant settings | MCP |
+| Install the vector database and choose file formats | Data setup |
+| Create datasets, import files, inspect or delete a document | Data library |
+
+The English UI calls the last screen **Data library**. This guide uses that name; some older links still say Library.
+
+## Four steps are enough the first time
+
+1. Save the username. Copy the authorization key to an admin.
+2. After connect succeeds, paste and verify the service key.
+3. (Recommended) Install the local vector database.
+4. Pick an agent, add a project folder, click to launch.
+
+After the key passes, open [MCP](mcp.md) if you want the local library or browser control. Keys `1`–`6` switch the six sidebar screens.
 
 Download from the [latest release page](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest).
 

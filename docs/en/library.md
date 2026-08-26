@@ -11,15 +11,33 @@
 </div>
 
 ---
-# Library
+# Data library
 
-![Library](../assets/library.png)
+![Data library](../assets/library.png)
 
-After files are in a dataset, launched assistants can search that content.
+The sidebar is **Data library**. Pick a dataset on the left, import files, then inspect them as a **file list**.
 
-Create a dataset, choose it as the target, pick files, and start import. Progress is roughly: parse → understand → store.
+## Create a dataset
 
-Then open [Agents](agents.md) and ask in ordinary language.
+Type a name under **New dataset**, click **Create**. Width comes from the vectorizing service on the channel; there is no field to edit. The red **Delete** button removes the whole dataset.
+
+## Import files
+
+1. Select a dataset.
+2. Click the **Add files** area (**Choose files**).
+3. Click **Start import**. **Clear** drops the selection.
+
+Stages: **Reading** → **Reading figures** → **Vectorizing** → **Writing**. Several files can run together; one failure does not always stop the others.
+
+## Inspect and delete a document
+
+![Document contents](../assets/library-view.png)
+
+Click a row to open **Document contents**. Search passages, then read **Searchable text**. **Original** appears only when it differs from the searchable text. Some formats cannot be previewed; the app shows a location instead.
+
+**Delete document** removes every passage of that file from the dataset. Other files stay.
+
+Then enable **Local library** on [MCP](mcp.md), apply, and ask from [Agents](agents.md).
 
 <div align="center">
 
