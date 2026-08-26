@@ -13,7 +13,7 @@
 ---
 # 安裝與下載
 
-請到 [最新發行頁](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest) 下載對應你電腦的檔案。
+請到 [最新發行頁](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest) 下載對應你電腦的檔案。
 
 | 你的電腦 | 下載這個檔 |
 |---|---|

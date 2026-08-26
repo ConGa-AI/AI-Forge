@@ -17,7 +17,7 @@
 
 這份說明只講怎麼用。選你的電腦、完成第一次設定，就能在專案資料夾裡啟動助手，也可以把文件放進本機資料庫供之後搜尋，並把本機工具寫進助手設定。
 
-畫面截圖：[網站文件中心 · AI Forge](https://congaai.github.io/docs/AI-Forge/Overview)
+畫面截圖：[網站文件中心 · AI Forge](https://conga-ai.github.io/docs/AI-Forge/Overview)
 
 ## 章節
 
@@ -52,7 +52,7 @@
 
 金鑰通過後，可再到 [MCP](mcp.md) 啟用本機文件庫或下載瀏覽器操作。左側六個畫面可用數字鍵 `1`–`6` 切換。
 
-下載請到 [最新發行頁](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest)。
+下載請到 [最新發行頁](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest)。
 
 <div align="center">
 

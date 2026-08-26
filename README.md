@@ -22,4 +22,4 @@ AI Forge 是桌上電腦用的工作台：先讓這台電腦連上專屬通道�
 
 ### 下載
 
-請到 [最新發行頁](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest) 選擇符合你電腦的檔案。
+請到 [最新發行頁](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest) 選擇符合你電腦的檔案。

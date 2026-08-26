@@ -17,7 +17,7 @@
 
 このガイドは使い方だけを説明します。アプリを入れ、初回設定を終え、プロジェクトのフォルダーでアシスタントを起動できます。文書をこのパソコンの資料庫に入れて検索したり、本機ツールをアシスタント設定へ書き込むこともできます。
 
-画面付き：[サイトの文書センター · AI Forge](https://congaai.github.io/docs/AI-Forge/Overview)
+画面付き：[サイトの文書センター · AI Forge](https://conga-ai.github.io/docs/AI-Forge/Overview)
 
 ## 章
 
@@ -43,7 +43,7 @@
 | ベクトルデータベースと読める形式 | データ設定 |
 | データセット、取り込み、文書の確認と削除 | データ管理 |
 
-ダウンロードは [最新の公開ページ](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest) です。
+ダウンロードは [最新の公開ページ](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest) です。
 
 <div align="center">
 

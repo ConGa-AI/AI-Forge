@@ -17,7 +17,7 @@
 
 This guide is about using the app. Download it, finish first-time setup, launch an assistant in a project folder, optionally build a private searchable library, and write local tools into assistant settings.
 
-With screenshots: [Docs site · AI Forge](https://congaai.github.io/docs/AI-Forge/Overview)
+With screenshots: [Docs site · AI Forge](https://conga-ai.github.io/docs/AI-Forge/Overview)
 
 ## Chapters
 
@@ -54,7 +54,7 @@ The English UI calls the last screen **Data library**. This guide uses that name
 
 After the key passes, open [MCP](mcp.md) if you want the local library or browser control. Keys `1`–`6` switch the six sidebar screens.
 
-Download from the [latest release page](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest).
+Download from the [latest release page](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest).
 
 <div align="center">
 
