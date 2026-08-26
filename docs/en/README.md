@@ -54,7 +54,7 @@ The English UI calls the last screen **Data library**. This guide uses that name
 
 After the key passes, open [MCP](mcp.md) if you want the local library or browser control. Keys `1`–`6` switch the six sidebar screens.
 
-Download from the [latest release page](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest).
+Download from the [latest release page](https://github.com/ConGa-AI/AI-Forge/releases/latest).
 
 <div align="center">
 

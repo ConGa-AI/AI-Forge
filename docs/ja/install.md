@@ -13,7 +13,7 @@
 ---
 # インストールとダウンロード
 
-[最新の公開ページ](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest) から、お使いのパソコンに合うファイルを選んでください。
+[最新の公開ページ](https://github.com/ConGa-AI/AI-Forge/releases/latest) から、お使いのパソコンに合うファイルを選んでください。
 
 | お使いのパソコン | このファイル |
 |---|---|

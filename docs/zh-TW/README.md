@@ -52,7 +52,7 @@
 
 金鑰通過後，可再到 [MCP](mcp.md) 啟用本機文件庫或下載瀏覽器操作。左側六個畫面可用數字鍵 `1`–`6` 切換。
 
-下載請到 [最新發行頁](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest)。
+下載請到 [最新發行頁](https://github.com/ConGa-AI/AI-Forge/releases/latest)。
 
 <div align="center">
 

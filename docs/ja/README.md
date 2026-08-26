@@ -43,7 +43,7 @@
 | ベクトルデータベースと読める形式 | データ設定 |
 | データセット、取り込み、文書の確認と削除 | データ管理 |
 
-ダウンロードは [最新の公開ページ](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest) です。
+ダウンロードは [最新の公開ページ](https://github.com/ConGa-AI/AI-Forge/releases/latest) です。
 
 <div align="center">
 

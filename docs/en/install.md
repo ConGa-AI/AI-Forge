@@ -13,7 +13,7 @@
 ---
 # Install and download
 
-Get the file that matches your computer from the [latest release page](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest).
+Get the file that matches your computer from the [latest release page](https://github.com/ConGa-AI/AI-Forge/releases/latest).
 
 | Your computer | Download this file |
 |---|---|
